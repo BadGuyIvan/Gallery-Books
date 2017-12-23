@@ -1,0 +1,518 @@
+ [{
+         "id": "fdfa3476143b45e9b4d3654a9513d0f2",
+         "title": "La La Land",
+         "poster": "LaLaLand.jpg",
+         "genre": "Comedy/Musical/Drama"
+     },
+     {
+         "id": "534ba971812842e3a786d715e4e08248",
+         "title": "Paterson",
+         "poster": "Paterson.jpg",
+         "genre": "Romance/Comedy/Drama"
+     },
+     {
+         "id": "587c330ced3b4ba781a966310e155a7d",
+         "title": "Jackie",
+         "poster": "Jackie.jpg",
+         "genre": "Drama/Biography"
+     },
+     {
+        "id": "aa64bfc7db3d49dc84969a5657537761",
+         "title": "Lo and Behold Reveries of the Connected World",
+         "poster": "Lo and Behold Reveries of the Connected World.jpg",
+         "genre": "Documentary"
+     },
+     {
+        "id": "893f24de88fd4346b476b5c2e696b5b1",
+         "title": "10 Cloverfield Lane",
+         "poster": "10 Cloverfield Lane.jpg",
+         "genre": "Drama/Mystery/Horror"
+     },
+     {
+        "id": "a5e82ea3fd594733b84ff73f1622befe",
+         "title": "Birth of a Nation",
+         "poster": "Birth of a Nation.jpg",
+         "genre": "History/Drama/Biography"
+     },
+     {
+        "id": "833d2f9784f84ba19771e7288bd5a5f5",
+         "title": "De Palma",
+         "poster": "De Palma.jpg",
+         "genre": "Biography/Documentary"
+     },
+     {
+        "id": "87800465d2764f9e8256bc73b4a80963",
+         "title": "Doctor Strange",
+         "poster": "Doctor Strange.jpg",
+         "genre": "Action/Adventure/Fantasy"
+     },
+     {
+        "id": "ed8b8a9f937342ffbb89613554d9291e",
+         "title": "Eddie the Eagle",
+         "poster": "Eddie the Eagle.jpg",
+         "genre": "Comedy/Drama/Biography"
+     },
+     {
+        "id": "ef475e072127401993673b3e389495af",
+         "title": "Pride and prejudice and zombies",
+         "poster": "Pride and prejudice and zombies.jpg",
+         "genre": "Action/Romance/Horror"
+     },
+     {
+        "id": "1a1d32bb098746c9ae3d3aab7905ace6",
+         "title": "Finding Dory",
+         "poster": "Finding Dory.jpg",
+         "genre": "Adventure/Comedy/Animation"
+     },
+     {
+        "id": "90f02209023345878c5474494772861e",
+         "title": "Green Room",
+         "poster": "Green Room.jpg",
+         "genre": "Thriller/Crime/Horror"
+     },
+     {
+        "id": "5a10f301c4214228ad65a3b3090aed4e",
+         "title": "Kubo and the Two Strings",
+         "poster": "Kubo and the Two Strings.jpg",
+         "genre": "Adventure/Family/Animation"
+     },
+     {
+        "id": "c90d0a69537d49cda45f794f34ec29bc",
+         "title": "In a Valley of Violence",
+         "poster": "In a Valley of Violence.jpg",
+         "genre": "Drama/Western"
+     },
+     {
+        "id": "0e4caababc1248f2aeb7d4d1816efdf5",
+         "title": "O.J.: Made in America",
+         "poster": "O.J. Made in America.jpg",
+         "genre": "Documentary"
+     },
+     {
+        "id": "e7b47f959602406faf6c42edf81fd8cb",
+         "title": "Rogue 'One': A Star Wars Story",
+         "poster": "Rogue One A Star Wars Story.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "00f095dc0b534dbf97ad1d9e52f04cf9",
+         "title": "Sing Street",
+         "poster": "Sing Street.jpg",
+         "genre": "Comedy/Musical/Drama"
+     },
+     {
+        "id": "a8e8e1de06fb47048aececa54e1cda7f",
+         "title": "Zoolander 2",
+         "poster": "Zoolander 2.jpg",
+         "genre": "Comedy"
+     },
+     {
+        "id": "acbf8bb45ef245b4afff2b18b13ee71b",
+         "title": "Valerian and the City of a Thousand Planets",
+         "poster": "Valerian and the City of a Thousand Planets.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "9c3cda6c7eea432786551058100c42f0",
+         "title": "Dunkirk",
+         "poster": "Dunkirk.jpg",
+         "genre": "Action/War/History/Drama"
+     },
+     {
+        "id": "8ccba155c4f94fe48dd22c55aa42a955",
+         "title": "First Kill",
+         "poster": "First Kill.jpg",
+         "genre": "Action/Thriller"
+     },
+     {
+        "id": "562986655121422c949d7ff7e0576f44",
+         "title": "The Lost City of Z",
+         "poster": "The Lost City of Z.jpg",
+         "genre": "Action/Adventure/Biography"
+     },
+     {
+        "id": "ea493f2121be4be9879deaad114b3287",
+         "title": "Transformers: The Last Knight",
+         "poster": "Transformers The Last Knight.jpg",
+         "genre": "Action/Adventure"
+     },
+     {
+        "id": "113ee9b8e994485d9be7360f121d06b3",
+         "title": "Despicable Me 3",
+         "poster": "Despicable Me 3.png",
+         "genre": "Action/Adventure/Animation"
+     },
+     {
+        "id": "e5156d2bed7c454e9272e046e695349e",
+         "title": "The Mummy (2017)",
+         "poster": "The Mummy (2017).jpg",
+         "genre": "Action/Adventure/Fantasy"
+     },
+     {
+        "id": "489db0a0fa02495ca09b56c41b515242",
+         "title": "Wonder Woman",
+         "poster": "Wonder Woman.jpg",
+         "genre": "Action/Adventure/Fantasy"
+     },
+     {
+        "id": "961bd5f6e9b543b0ba68c74eda5d3594",
+         "title": "Baywatch",
+         "poster": "Baywatch.jpg",
+         "genre": "Action/Comedy/Drama"
+     },
+     {
+        "id": "ed5a54bde4334a0a878379129672fa4b",
+         "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+         "poster": "Pirates of the Caribbean Dead Men Tell No Tales.jpg",
+         "genre": "Action/Adventure/Fantasy"
+     },
+     {
+        "id": "e6f075133b054a9fad5ecd1be613b707",
+         "title": "Guardians of the Galaxy Vol. 2",
+         "poster": "Guardians of the Galaxy Vol. 2.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "6cb1c91f3ad34e238830583c86af7bf7",
+         "title": "Fast and Furious 8: The Fate of the Furious",
+         "poster": "Fast and Furious 8 The Fate of the Furious.jpg",
+         "genre": "Action/Thriller/Crime"
+     },
+     {
+        "id": "46fbea56a0694329a10a5d86d8eda56b",
+         "title": "Ghost in the Shell",
+         "poster": "Ghost in the Shell.jpg",
+         "genre": "Action/Crime/Drama"
+     },
+     {
+        "id": "beab9e53a35c4e4c83ed2fc1aa24c6d6",
+         "title": "Kong: Skull Island",
+         "poster": "Kong Skull Island.jpg",
+         "genre": "Action/Adventure/Fantasy"
+     },
+     {
+        "id": "95c9374969bc4021909cde1400813ed1",
+         "title": "Logan",
+         "poster": "Logan.jpg",
+         "genre": "Action/Sci-Fi/Drama"
+     },
+     {
+        "id": "85646f2dd1084015ba2078821c04150b",
+         "title": "John Wick: Chapter 2",
+         "poster": "John Wick Chapter 2.jpg",
+         "genre": "Action/Thriller/Crime"
+     },
+     {
+        "id": "e985f003401044a291b9452a414698a9",
+         "title": "Sleepless (2017)",
+         "poster": "Sleepless (2017).jpg",
+         "genre": "Action/Thriller/Crime"
+     },
+     {
+        "id": "b5d912570d3c40fa85cc234350b90da7",
+         "title": "X-Men: Days Of Future Past",
+         "poster": "X-Men Days Of Future Past.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "3409603a565246ffa35569cdfc1cc189",
+         "title": "xXx: Return of Xander Cage",
+         "poster": "xXx Return of Xander Cage.jpg",
+         "genre": "Action/Adventure/Thriller"
+     },
+     {
+        "id": "5cb2e3c46cb04d1292cd17fa6e95f0ee",
+         "title": "Alien: Covenant",
+         "poster": "Alien Covenant.jpg",
+         "genre": "Horror/Sci-Fi/Thriller"
+     },
+     {
+        "id": "0b7582078c8b437fafbd5f9b3934e8c9",
+         "title": "Fifty Shades Darker",
+         "poster": "Fifty Shades Darker.jpg",
+         "genre": "Drama/Romance"
+     },
+     {
+        "id": "8432a812bdf146589933966fb3f3ff01",
+         "title": "Why Him?",
+         "poster": "Why Him.jpg",
+         "genre": "Comedy"
+     },
+     {
+        "id": "e23f630b0cf346fea402d16684752256",
+         "title": "Split",
+         "poster": "Split.jpg",
+         "genre": "Horror/Thriller"
+     },
+     {
+        "id": "c3c1cf591fd54ce0a67d489f32652b96",
+         "title": "Trolls",
+         "poster": "Trolls.jpg",
+         "genre": "Animation/Adventure/Comedy/Family/Fantasy/Musical"
+     },
+     {
+        "id": "833017949e92474aa77c8549aa63c87b",
+         "title": "Suicide Squad",
+         "poster": "Suicide Squad.jpg",
+         "genre": "Action/Adventure/Fantasy/Sci-Fi"
+     },
+     {
+        "id": "1f76c46e809c43b689f4aa07397eb2ca",
+         "title": "Lucy",
+         "poster": "Lucy.jpg",
+         "genre": "Action/Sci-Fi/Thriller"
+     },
+     {
+        "id": "a608ccffec184a518018a24e9fc6f561",
+         "title": "Ballerina",
+         "poster": "Ballerina.jpg",
+         "genre": "Animation/Adventure/Comedy/Family/Musical"
+     },
+     {
+        "id": "340c343013fc4c05a48f17977ead6bae",
+         "title": "John Wick",
+         "poster": "John Wick.jpg",
+         "genre": "Action/Crime/Thriller"
+     },
+     {
+        "id": "ffc7223bb1da48a3a2501820b6cea2af",
+         "title": "The Twilight Saga: Breaking Dawn - Part 2",
+         "poster": "The Twilight Saga Breaking Dawn - Part 2.jpg",
+         "genre": "Adventure/Drama/Fantasy/Romance"
+     },
+     {
+        "id": "d1485d912ffc4c55878719ecd6c5d60d",
+         "title": "Captain America: Civil War",
+         "poster": "Captain America Civil War.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "a4e988dc5cf44b55bf69561306393b48",
+         "title": "Jurassic World",
+         "poster": "Jurassic World.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "5a81bddc5d054eb1893d74ec610b2afe",
+         "title": "Dawn of the Planet of the Apes",
+         "poster": "Dawn of the Planet of the Apes.jpg",
+         "genre": "Action/Adventure/Drama/Sci-Fi"
+     },
+     {
+        "id": "c9ea6de593bf4b61ab062fade365e225",
+         "title": "Legion",
+         "poster": "Legion.jpg",
+         "genre": "Action/Fantasy/Horror"
+     },
+     {
+        "id": "8b69e1c4e65c47af8cf3e1d93bf9ae15",
+         "title": "Passengers",
+         "poster": "Passengers.jpg",
+         "genre": "Adventure/Drama/Romance/Sci-Fi"
+     },
+     {
+        "id": "3b4591eac6bd443e80001cd195ef4aea",
+         "title": "Assassin's Creed",
+         "poster": "Assassin's Creed.jpg",
+         "genre": "Action/Adventure/Drama/Fantasy/Sci-Fi"
+     },
+     {
+        "id": "69308d0ba87344e19c66c7cfa598dc2c",
+         "title": "Fantastic Beasts and Where to Find Them",
+         "poster": "Fantastic Beasts and Where to Find Them.jpg",
+         "genre": "Adventure/Family/Fantasy"
+     },
+     {
+        "id": "7ccb628823564f19bc4ee046d639096b",
+         "title": "Transformers: Age of Extinction",
+         "poster": "Transformers Age of Extinction.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "cdedeb05c60d42329a7f946f3e1bc960",
+         "title": "The Shallows",
+         "poster": "The Shallows.jpg",
+         "genre": "Drama/Horror/Thriller"
+     },
+     {
+        "id": "99419b8709bf4cb2baeba7258518b32c",
+         "title": "Batman: The Dark Knight",
+         "poster": "Batman The Dark Knight.jpg",
+         "genre": "Action/Sci-Fi/Thriller"
+     },
+     {
+        "id": "92975a91216540dc8113c56cc6476cdf",
+         "title": "The Hateful Eight",
+         "poster": "The Hateful Eight.jpg",
+         "genre": "Action/Western"
+     },
+     {
+        "id": "d50983f16fb84c7ab81794beba95951a",
+         "title": "The Godfather",
+         "poster": "The Godfather.jpg",
+         "genre": "Crime/Drama"
+     },
+     {
+        "id": "726558668d804f789bfd49896f0543bc",
+         "title": "The Godfather: Part II",
+         "poster": "The Godfather Part II.jpg",
+         "genre": "Drama/Crime"
+     },
+     {
+        "id": "773bab7aea264f18ba0b8ffd184ffdc7",
+         "title": "The Lord Of The Rings: The Return Of The King",
+         "poster": "The Lord Of The Rings The Return Of The King.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "6d64638e95d144209f7cd7001141a37a",
+         "title": "Forrest Gump",
+         "poster": "Forrest Gump.jpg",
+         "genre": "Romance/Drama"
+     },
+     {
+        "id": "f932a312d8814c5999a39376ad9fd518",
+         "title": "The Good, The Bad And The Ugly",
+         "poster": "The Good, The Bad And The Ugly.jpg",
+         "genre": "Western"
+     },
+     {
+        "id": "2748bcb94fea4ab1a6b5fbe0f3137371",
+         "title": "Fight Club",
+         "poster": "Fight Club.jpg",
+         "genre": "Action/Drama"
+     },
+     {
+        "id": "784e940a392941529aa534873a524b56",
+         "title": "The Lord Of The Rings: The Fellowship Of The Ring",
+         "poster": "The Lord Of The Rings The Fellowship Of The Ring.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+         
+        "id": "50f0ed42e78745779d5b2e92ffdee93c",
+         "title": "Deadpool",
+         "poster": "Deadpool.jpg",
+         "genre": "Action/Adventure/Comedy"
+     },
+     {
+        "id": "d89837221f6240959013011c02ad56df",
+         "title": "Inception",
+         "poster": "Inception.jpg",
+         "genre": "Action/Sci-Fi/Mystery"
+     },
+     {
+        "id": "8c85e83faa8142288ba287d43cd31f9e",
+         "title": "The Matrix",
+         "poster": "The Matrix.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "cfd3e71048d844508999465ea12311e4",
+         "title": "The Lord Of The Rings: The Two Towers",
+         "poster": "The Lord Of The Rings The Two Towers.jpg",
+         "genre": "Action/Adventure/Sci-Fi"
+     },
+     {
+        "id": "2a3b380befd44fee83c3e36fd81125ed",
+         "title": "Arrival",
+         "poster": "Arrival.jpg",
+         "genre": "Sci-Fi/Drama/Mystery"
+     },
+     {
+        "id": "419abdc99c8b482c827182fb24acb1b5",
+         "title": "The Silence of the Lambs",
+         "poster": "The Silence of the Lambs.jpg",
+         "genre": "Thriller/Crime/Drama"
+     },
+     {
+        "id": "96e0cb0bf5f04eaf9484e64e97e58ca5",
+         "title": "Batman the Dark Knight Rises",
+         "poster": "Batman the Dark Knight Rises.jpg",
+         "genre": "Action/Thriller"
+     },
+     {
+        "id": "bba4ea3e30e44c6f9ef61d4150d1335c",
+         "title": "Indiana Jones and the Raiders of the Lost Ark",
+         "poster": "Indiana Jones and the Raiders of the Lost Ark.jpg",
+         "genre": "Action/Adventure"
+     },
+     {
+        "id": "c0296b865bdf481cad3323a80cb0d5b8",
+         "title": "The Martian",
+         "poster": "The Martian.jpg",
+         "genre": "Adventure/Sci-Fi/Drama"
+     },
+     {
+        "id": "1ea03173381b49a69a6d3f5735692b12",
+         "title": "Gladiator",
+         "poster": "Gladiator.jpg",
+         "genre": "Action/Drama"
+     },
+     {
+        "id": "a37834049a184bc6847ebbfc246749eb",
+         "title": "The Lion King",
+         "poster": "The Lion King.jpg",
+         "genre": "Adventure/Animation/Drama"
+     },
+     {
+        "id": "82d18e83ae464e6d8ebe006c28520421",
+         "title": "Saving Private Ryan",
+         "poster": "Saving Private Ryan.jpg",
+         "genre": "Action/Drama/War"
+     },
+     {
+        "id": "ba3d60d56eb14a49b8acffa9c31b3561",
+         "title": "The Green Mile",
+         "poster": "The Green Mile.jpg",
+         "genre": "Crime/Drama/Fantasy"
+     },
+     {
+        "id": "f91d3eeeb30d4ce1bdac1320abfbe2d8",
+         "title": "Terminator 2: Judgment Day",
+         "poster": "Terminator 2 Judgment Day.jpg",
+         "genre": "Action/Sci-Fi/Thriller"
+     },
+     {
+        "id": "e8a469fb8d764b95a96a07958d1f10ed",
+         "title": "Back To The Future",
+         "poster": "Back To The Future.jpg",
+         "genre": "Adventure/Comedy/Sci-Fi/Mystery"
+     },
+     {
+        "id": "ead3adc191b74a42a341bdfb65ba85e2",
+         "title": "Interstellar",
+         "poster": "Interstellar.jpg",
+         "genre": "Adventure/Sci-Fi"
+     },
+     {
+        "id": "cd4dbcd972304c76bcc1a364a2b4df2d",
+         "title": "The Jungle Book 2016",
+         "poster": "The Jungle Book 2016.jpg",
+         "genre": "Adventure/Family/Drama"
+     },
+     {
+        "id": "bf00e981d4b34657a5c5abfb259b0978",
+         "title": "Aliens",
+         "poster": "Aliens.jpg",
+         "genre": "Action/Sci-Fi/Horror"
+     },
+     {
+        "id": "c3cdada4fe7b4a1684a9fff7ef024b4b",
+         "title": "WALL-E",
+         "poster": "WALL-E.jpg",
+         "genre": "Adventure/Family/Animation"
+     },
+     {
+        "id": "017b95cf59c349c494ecf9e6964cee3e",
+         "title": "Django Unchained",
+         "poster": "Django Unchained.jpg",
+         "genre": "Western"
+     },
+     {
+        "id": "40f3549f1ca7455584884eea7d74b8b1",
+         "title": "For a Few Dollars More",
+         "poster": "For a Few Dollars More.jpg",
+         "genre": "Western"
+     }
+ ]

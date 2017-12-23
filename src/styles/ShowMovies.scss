@@ -1,0 +1,58 @@
+img {
+  height: 350px;
+  width: 250px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.search-inf {
+  font-size: 2rem;
+}
+
+.start_animation {
+  animation-play-state: running;
+}
+
+.stop_animation {
+  animation-play-state: paused;
+}
+
+.show-img {
+  animation: fadein 3s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+
+li > p {
+  box-sizing: border-box;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.Movieslist {
+  padding: 0;
+  list-style: none;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: row;
+    flex-wrap: wrap; */
+  /* flex-flow: row wrap; */
+  /* align-content: flex-end; */
+}
